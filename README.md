@@ -10,7 +10,7 @@ Shopify Developer | Frontend Developer
 - Shopify Theme Customization
 - Shopify Forms & Metafields
 - Klaviyo Email Automation
-- HTML, CSS, JavaScript.
+- HTML, CSS, JavaScript, Shopify Liquid.
 
 ---
 
@@ -21,6 +21,7 @@ Shopify Developer | Frontend Developer
 - CSS3
 - JavaScript
 - Klaviyo
+- GraphQL and REST API
 - Git & GitHub
 
 ---
