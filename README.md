@@ -46,22 +46,22 @@ https://github.com/faizanahmed125/shopify-klaviyo-popup
 
 ---
 
-## 2. Shopify Cart Drawer
+## 2. Shopify Klaviyo Email Automation
 
-Built a dynamic Shopify cart drawer that pops up from the side when products are added to cart.
+Created abandoned cart email automation flows using Klaviyo for Shopify stores.
 
 Features:
-- AJAX add to cart
-- Dynamic quantity updates
-- Remove product functionality
-- Responsive side drawer UI
-- Real-time cart updates without page reload
+- Automated abandoned cart emails
+- Custom-designed email templates
+- Trigger-based flow setup
+- Delay & condition logic
+- Shopify customer event integration
 
 Tech Used:
-Shopify Liquid, JavaScript, HTML, CSS
+Klaviyo, Shopify, HTML Email Templates
 
 🔗 Repository:
-https://github.com/faizanahmed125/shopify-cart-drawer
+https://github.com/faizanahmed125/shopify-klaviyo-email-automation
 
 ---
 
@@ -117,6 +117,28 @@ HTML, CSS, JavaScript
 
 🔗 Repository:
 https://github.com/faizanahmed125/Figma-Template-Design
+
+---
+
+
+## 6. Shopify Cart Drawer
+
+Built a dynamic Shopify cart drawer that pops up from the side when products are added to cart.
+
+Features:
+- AJAX add to cart
+- Dynamic quantity updates
+- Remove product functionality
+- Responsive side drawer UI
+- Real-time cart updates without page reload
+
+Tech Used:
+Shopify Liquid, JavaScript, HTML, CSS
+
+🔗 Repository:
+https://github.com/faizanahmed125/shopify-cart-drawer
+
+---
 
 ## Contact
 
