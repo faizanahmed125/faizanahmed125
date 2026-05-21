@@ -62,6 +62,7 @@ Shopify Liquid, JavaScript, HTML, CSS
 
 🔗 Repository:
 https://github.com/faizanahmed125/shopify-cart-drawer
+
 ---
 
 ## 3. Coffee Shop Bundle Section
