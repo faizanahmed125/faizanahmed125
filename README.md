@@ -33,7 +33,7 @@ Shopify Developer | Frontend Developer
 Created multi-step popup forms for a Shopify store using Klaviyo integration.
 
 Features:
-- Email & phone number collection
+- Email & phone number collection through pop up
 - Second popup for child birthday details
 - Data stored into organized Klaviyo lists
 - Customer segmentation setup
@@ -45,6 +45,7 @@ Shopify Liquid, HTML, CSS, JavaScript, Klaviyo
 🔗 Repository:
 https://github.com/faizanahmed125/shopify-klaviyo-popup
 
+**Live Store Link:** https://sillygoosekids.ca/?srsltid=AfmBOor15qYtCj56FJTZZiC9sHWWOaFV8ILEpFj9GzmnzwYvoMxlpDhD
 ---
 
 ## 2. Shopify Klaviyo Email Automation
@@ -66,7 +67,27 @@ https://github.com/faizanahmed125/shopify-klaviyo-email-automation
 
 ---
 
-## 3. Coffee Shop Bundle Section
+## 3. Aromatto Coffee Shop Design
+
+Created a custom Home page design for a coffee shop Shopify store.
+Designed it completely according to the inspiration provided by client.
+Synced products as well as AJAX cart functionality.
+
+Features:
+- Product Collections display
+- Custom responsive layout
+- Shopify theme section integration
+- Clean UI optimized for conversions
+
+Tech Used:
+Shopify Liquid, HTML, CSS, JavaScript
+
+🔗 Repository:
+https://github.com/faizanahmed125/shopify-bundles-section
+
+---
+
+## 4. Coffee Shop Bundle Section
 
 Created a custom bundle section for a coffee shop Shopify store.
 Each bundle has then been organized according to specific collections from the shopify backend.
@@ -85,7 +106,28 @@ https://github.com/faizanahmed125/shopify-bundles-section
 
 ---
 
-## 4. Featured Events Page
+## 5. Fleur Floral Studio Design
+
+Created a custom Home page design for a coffee shop Shopify store.
+Designed it completely according to the inspiration provided by client.
+Synced products as well as AJAX cart functionality.
+
+Features:
+- Designed and developed the homepage using Shopify theme customization.
+- Built multiple custom pages including Wedding Packages, Custom Floral Services, and DIY Flowers.
+- Created responsive layouts ensuring consistency across mobile, tablet, and desktop devices.
+- Implemented UI structure and styling using HTML, CSS, JavaScript, and Shopify Liquid.
+- Focused on clean visual hierarchy and user-friendly navigation to improve product discovery and conversions.
+
+
+Tech Used:
+Shopify Liquid, HTML, CSS, JavaScript
+
+**Live Store Link:** https://fleurfloralstudio.com/
+
+---
+
+## 6. Featured Events Page
 
 Developed an interactive events page displaying upcoming events with search functionality.
 
@@ -103,7 +145,7 @@ https://github.com/faizanahmed125/featured-events
 
 ---
 
-## 5. Figma to Frontend Conversion
+## 7. Figma to Frontend Conversion
 
 Converted a Figma design into a fully responsive frontend webpage.
 
@@ -122,7 +164,7 @@ https://github.com/faizanahmed125/Figma-Template-Design
 ---
 
 
-## 6. Shopify Cart Drawer
+## 8. Shopify Cart Drawer
 
 Built a dynamic Shopify cart drawer that pops up from the side when products are added to cart.
 
