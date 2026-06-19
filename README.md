@@ -83,7 +83,7 @@ Tech Used:
 Shopify Liquid, HTML, CSS, JavaScript
 
 🔗 Repository:
-https://github.com/faizanahmed125/shopify-bundles-section
+https://github.com/faizanahmed125/aromatto-coffee-shop
 
 ---
 
