@@ -1,189 +1,90 @@
 # Muhammad Faizan
 
-Shopify Developer | Frontend Developer
+**Shopify Developer & UI Designer**
 
----
+I’m a Shopify developer with over two years of experience building and customizing production ecommerce stores. I work primarily with Shopify Liquid, JavaScript, HTML and CSS, combining development with a UI design background to turn brand direction and approved designs into responsive, maintainable storefronts.
 
-## About Me
+My work includes custom Online Store 2.0 sections, product templates, theme-editor controls, metafields, cart interactions, responsive storefront development, Shopify Markets and third-party ecommerce integrations.
 
-- BSCS Graduate from NUML Islamabad
-- Shopify Theme Customization
-- Shopify Forms & Metafields
-- Klaviyo Email Automation
-- HTML, CSS, JavaScript, Shopify Liquid.
+## Selected Shopify Work
 
----
+### HijaBrush
 
-## Skills
+Developed and customized a branded Shopify storefront for a specialized covered-hair care system.
 
-- Shopify Liquid
-- HTML5
-- CSS3
-- JavaScript
-- Klaviyo
-- GraphQL and REST API
-- Git & GitHub
+My work included custom theme sections, responsive page development, product presentation, the Chapter Finder journey, international market configuration, fixed regional pricing, shipping profiles, Klaviyo integration and customer-facing tracking functionality.
 
----
+[Visit HijaBrush](https://hijabrush.com/)
 
-# Featured Projects
+### Popzumi
 
-## 1. Shopify Klaviyo Popup Flow
+Designed and developed an artisan popcorn storefront from its initial UI direction through its Shopify implementation.
 
-Created multi-step popup forms for a Shopify store using Klaviyo integration.
+My work included the responsive storefront design, custom theme sections, homepage slideshow, collection and category architecture, predictive search, Shopify Collective catalog integration, product and variant presentation, subscription setup and responsive quality assurance.
 
-Features:
-- Email & phone number collection through pop up
-- Second popup for child birthday details
-- Data stored into organized Klaviyo lists
-- Customer segmentation setup
-- Responsive popup UI
+The storefront is currently in pre-launch mode. Portfolio screenshots represent the implementation completed during my involvement.
 
-Tech Used:
-Shopify Liquid, HTML, CSS, JavaScript, Klaviyo
+[Visit Popzumi](https://popzumi.com/)
 
-🔗 Repository:
-https://github.com/faizanahmed125/shopify-klaviyo-popup
+### T&Z Luxe
 
-**Live Store Link:** https://sillygoosekids.ca/?srsltid=AfmBOor15qYtCj56FJTZZiC9sHWWOaFV8ILEpFj9GzmnzwYvoMxlpDhD
+Built and launched a responsive Shopify jewelry storefront, including its product presentation, shopping experience and store configuration.
 
----
+The store recorded **$7,474 in total sales across 65 orders during its first 60 days after launch**. This performance reflects the client’s complete business and marketing activity alongside the storefront implementation.
 
-## 2. Fleur Floral Studio Design
+[Visit T&Z Luxe](https://tzluxe.myshopify.com/)
 
-Created a custom Home page design for a coffee shop Shopify store.
-Designed it completely according to the inspiration provided by client.
-Synced products as well as AJAX cart functionality.
+<details>
+<summary><strong>View verified 60-day Shopify analytics</strong></summary>
 
-Features:
-- Designed and developed the homepage using Shopify theme customization.
-- Built multiple custom pages including Wedding Packages, Custom Floral Services, and DIY Flowers.
-- Created responsive layouts ensuring consistency across mobile, tablet, and desktop devices.
-- Implemented UI structure and styling using HTML, CSS, JavaScript, and Shopify Liquid.
-- Focused on clean visual hierarchy and user-friendly navigation to improve product discovery and conversions.
+<br>
 
+<img src="assets/tzluxe-60-day-analytics.png" alt="T&Z Luxe Shopify analytics showing $7,474.20 in total sales and 65 orders over 60 days">
 
-Tech Used:
-Shopify Liquid, HTML, CSS, JavaScript
+<sub>Shopify analytics for the 60-day period ending August 21, 2026. Shared with client permission.</sub>
 
-**Live Store Link:** https://fleurfloralstudio.com/
+</details>
 
----
+### Eterniq
 
-## 3. Shopify Klaviyo Email Automation
+Developed and delivered a responsive Shopify storefront for a research-products brand. The project included catalog and variant architecture, custom content sections, mobile optimization, navigation, ecommerce configuration and domain setup.
 
-Created abandoned cart email automation flows using Klaviyo for Shopify stores.
+[Visit Eterniq](https://eterniq.online/)
 
-Features:
-- Automated abandoned cart emails
-- Custom-designed email templates
-- Trigger-based flow setup
-- Delay & condition logic
-- Shopify customer event integration
+## Shopify Capabilities
 
-Tech Used:
-Klaviyo, Shopify, HTML Email Templates
+- Shopify Liquid and Online Store 2.0
+- Custom sections and theme-editor settings
+- HTML, CSS and JavaScript
+- Responsive storefront development
+- JSON templates and product templates
+- Shopify metafields and metaobjects
+- Product, collection and navigation architecture
+- Cart drawers and AJAX storefront interactions
+- Shopify Markets, regional pricing and localization
+- Shipping profiles and checkout configuration
+- Klaviyo forms and email automation
+- Figma-to-Shopify implementation
 
-🔗 Repository:
-https://github.com/faizanahmed125/shopify-klaviyo-email-automation
+## Selected Code Projects
 
----
+### Shopify Cart Drawer
 
-## 4. Aromatto Coffee Shop Design
+A custom AJAX cart drawer supporting dynamic quantity updates, product removal and real-time cart updates without requiring a page reload.
 
-Created a custom Home page design for a coffee shop Shopify store.
-Designed it completely according to the inspiration provided by client.
-Synced products as well as AJAX cart functionality.
+[View repository](https://github.com/faizanahmed125/shopify-cart-drawer)
 
-Features:
-- Product Collections display
-- Custom responsive layout
-- Shopify theme section integration
-- Clean UI optimized for conversions
+### Shopify and Klaviyo Popup Flow
 
-Tech Used:
-Shopify Liquid, HTML, CSS, JavaScript
+A multi-step storefront popup connected with Klaviyo for collecting customer contact and birthday information into organized lists.
 
-🔗 Repository:
-https://github.com/faizanahmed125/aromatto-coffee-shop
+[View repository](https://github.com/faizanahmed125/shopify-klaviyo-popup)
 
----
+## Background
 
-## 5. Coffee Shop Bundle Section
-
-Created a custom bundle section for a coffee shop Shopify store.
-Each bundle has then been organized according to specific collections from the shopify backend.
-
-Features:
-- Product bundle display
-- Custom responsive layout
-- Shopify theme section integration
-- Clean UI optimized for conversions
-
-Tech Used:
-Shopify Liquid, HTML, CSS, JavaScript
-
-🔗 Repository:
-https://github.com/faizanahmed125/shopify-bundles-section
-
----
-
-## 6. Figma to Frontend Conversion
-
-Converted a Figma design into a fully responsive frontend webpage.
-
-Features:
-- Pixel-perfect implementation
-- Responsive layout
-- Clean UI structure
-- Modern frontend practices
-
-Tech Used:
-HTML, CSS, JavaScript
-
-🔗 Repository:
-https://github.com/faizanahmed125/Figma-Template-Design
-
----
-
-## 7. Featured Events Page
-
-Developed an interactive events page displaying upcoming events with search functionality.
-
-Features:
-- Event listing UI
-- Search by event name
-- Responsive design
-- Dynamic filtering
-
-Tech Used:
-HTML, CSS, JavaScript
-
-🔗 Repository:
-https://github.com/faizanahmed125/featured-events
-
----
-
-## 8. Shopify Cart Drawer
-
-Built a dynamic Shopify cart drawer that pops up from the side when products are added to cart.
-
-Features:
-- AJAX add to cart
-- Dynamic quantity updates
-- Remove product functionality
-- Responsive side drawer UI
-- Real-time cart updates without page reload
-
-Tech Used:
-Shopify Liquid, JavaScript, HTML, CSS
-
-🔗 Repository:
-https://github.com/faizanahmed125/shopify-cart-drawer
-
----
+I hold a BSCS degree from NUML Islamabad and currently handle end-to-end Shopify development in an agency environment, including storefront implementation, technical configuration, responsive QA and direct collaboration around client requirements.
 
 ## Contact
 
-Email: shafahd125@gmail.com
-Phone: +923407462630
+- [LinkedIn](https://www.linkedin.com/in/mfaizan125/)
+- shafahd125@gmail.com
