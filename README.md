@@ -68,11 +68,17 @@ Developed and delivered a responsive Shopify storefront for a research-products 
 
 ## Selected Code Projects
 
-### Shopify Cart Drawer
+### Shopify AJAX Cart Drawer
 
-A custom AJAX cart drawer supporting dynamic quantity updates, product removal and real-time cart updates without requiring a page reload.
+A reusable cart drawer with AJAX product additions, quantity controls, Shopify money formatting, responsive states and accessible keyboard behavior.
 
 [View repository](https://github.com/faizanahmed125/shopify-cart-drawer)
+
+### Shopify Collection Bundles Section
+
+A configurable Online Store 2.0 section with theme-editor collection blocks, responsive cards, image fallbacks and section-level design controls.
+
+[View repository](https://github.com/faizanahmed125/shopify-bundles-section)
 
 ### Shopify and Klaviyo Popup Flow
 
